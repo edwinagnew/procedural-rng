@@ -1,0 +1,5 @@
+#!/Users/edwinagnew/opt/anaconda3/envs/qc/bin/python3.8
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
