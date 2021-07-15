@@ -1027,7 +1027,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   numQubits: 2
-  token: 
+  token: INSERT_TOKEN_HERE
   TranspileCircuit: 1
   dataFile: rng_data.txt
 --- !u!1 &743601126
